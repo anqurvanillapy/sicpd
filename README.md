@@ -18,6 +18,7 @@ and its dialects. Used languages are:
 - Counting Change (given half-dollars, quarters, dimes, nickels and pennies)
   + `count-change`
     + `.scm`
+    + `.clj`
 - Pascal's Triangle
   + `pascals-triangle`
     + `.scm`
