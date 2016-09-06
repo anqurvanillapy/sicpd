@@ -13,8 +13,15 @@ and its dialects. Used languages are:
 ## Contents
 
 - Square Roots by Newton's Method
+  + `sqrt`
+    + `.scm`
 - Counting Change (given half-dollars, quarters, dimes, nickels and pennies)
+  + `count-change`
+    + `.scm`
 - Pascal's Triangle
+  + `pascals-triangle`
+    + `.scm`
+    + `.clj`
 
 ## License
 
