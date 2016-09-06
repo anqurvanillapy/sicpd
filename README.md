@@ -1,6 +1,6 @@
 # sicpd
 
-*SICP Debugs/Dialects.*
+*SICP Debugs/Dialected.*
 
 My own coding practice exercises of SICP, a Lisp world of [suffusion of blue](https://xkcd.com/224/)
 and its dialects. Used languages are:
@@ -13,6 +13,8 @@ and its dialects. Used languages are:
 ## Contents
 
 - Square Roots by Newton's Method
+- Counting Change (given half-dollars, quarters, dimes, nickels and pennies)
+- Pascal's Triangle
 
 ## License
 
